@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Rehan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Full Stack Developer!!;Open+Source+contributor;Problem+Solver;AI/ML Enthusiast;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer!!;Open%2BSource%2Bcontributor;Problem%2BSolver;AI%2FML%2BEnthusiast;" alt="Typing Animation">
 </div>
+
 
 <img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
