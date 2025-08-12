@@ -27,10 +27,10 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">⚙️ Languages and Tools</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,typescript,nodejs,expressjs,mysql,mongodb,tailwind,git,github,postman,docker &theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,react,next,tailwind,threejs,nodejs,express,firebase,mongodb,postgresql,mysql,prisma,docker,git,github,postman,vscode&theme=dark" />
 </p>
+
+
 <!-- <hr></hr> -->
 <br>
 <!-- <details> -->
