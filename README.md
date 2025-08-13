@@ -38,14 +38,17 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
 </h2>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobrehan18&show_icons=true&locale=en&layout=compact&theme=radical" alt="noobrehan18" </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobrehan18&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobrehan18&show_icons=true&locale=en&theme=radical" alt="noobrehan18" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobrehan18&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobrehan18&include_all_commits=true&count_private=true&count_public=true&theme=radical" /></p></br>
-
-
+<p>
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=noobrehan18&theme=dark&hide_border=false" />
+</p>
 
 <hr></hr>
 <div align="center" width="50">
